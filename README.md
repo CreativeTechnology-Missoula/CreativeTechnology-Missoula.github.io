@@ -1,6 +1,6 @@
 # Creative Technology in Missoula
 
-* [Schedule](schedule.md)
+* [Schedule](schedule.html)
 * [Meet-up Notes](meet-notes.md)
 
 
