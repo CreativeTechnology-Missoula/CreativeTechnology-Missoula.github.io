@@ -1,59 +1,24 @@
 # Creative Technology in Missoula
-It’s pretty narrow; as in “Art & Tech”.
-BUT, It’s perfectly broad and narrow enough.
 
-### Who is it for?
+[Schedule](schedule.md)
+
+[Meet-up Notes](meet-notes.md)
+
+
+## What is this?
+We are a meetup group for artists and technologists in Missoula, MT (and nearby). We meet once a month, and there we all engage in conversations about the intersection of art and technology, share work that we are inspired by or are currently engaged with, and meet others in the community doing similar things.
+
+## Who is it for?
 - For the “art-tech” curious!
 - For the creative technologist.
 - For the scientist.
--
 
-### Things we should explore
-- A Virtual Presence
-	- Meetup?
-	- FB?
-	- GitHub Sites
+Art and technology is obviously a vast topic, and we want to see people of all backgrounds coming to share. Film, dance, theatre, music, painting, engineering, design, anyone.
 
-### What is this meeting like?
-- Do we rotate through talks and demo’s every session?
-- A “self-help” type group
-	- Verbalizing ideas to receive feedback
-	- Being able to talk through art/tech ideas
-		- practicing “the talk”
-	- Teaching elements?
+## Format
 
-- **Perhaps scheduled**
-	- 1st half is a specific topic, pre-chosen
-	- 2nd half more open floor
+We meet once a month, where we all share what we are currently working on, or things that we have seen or heard about that interest us. For each month, a different member will volunteer to lead a discussion about a particular topic. We want this to be an opportunity for us to share our expertise with others would might never know of that field or practice.
+
+Those who would like to share their work for critique would also be welcome.
 
 
-
-### What are we?
-- A place in Missoula, where anyone working on any creative coding, digital art, interactive stuff.
-- Creating a scene
-- **A mini-critique**
-- Potential “Collective Show” from this group within the town.
-
-
-
-
-## First Meeting Attendance
-- Michael
-- Austin
-- Chris
-- Jessie
-- Talena
-
-
-### What Communities to Reach Out To
-- The Montana Code School
-- The sciences
-- The “Fab Lab” in the art department — Brad Allen
-- Geoff Pepos — This guy is really cool & in to art and tech. Ya know, just a general interested and chill bro. We should contact, said bro.
-
-
-## TODO:
-- Facebook Group
-	- That could post events
-- Next Meeting on December 6th @ 6pm
-	- Jessie will be presenting
