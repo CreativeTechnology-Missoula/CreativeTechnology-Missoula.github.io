@@ -1,8 +1,7 @@
 # Creative Technology in Missoula
 
-[Schedule](schedule.md)
-
-[Meet-up Notes](meet-notes.md)
+* [Schedule](schedule.md)
+* [Meet-up Notes](meet-notes.md)
 
 
 ## What is this?
